@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Functionality that provides matrix inversion
+## with caching 
 
 ## Creates an object that contains matrix
 ## Object can cache matrix's inverse
